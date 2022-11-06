@@ -3,7 +3,7 @@
 Let's deploy the todo app to [Heroku](https://www.heroku.com/).
 
 ## Connect to Postgres
-Up until now the todo app has been using a plain JSON file to store the list of tasks. **In production, we'd like to use a `Postgres` database table instead.**
+Up until now, the todo app has been using a plain JSON file to store the list of tasks. **In production, we'd like to use a `Postgres` database table instead.**
 
 1. Install `postgres-node` ("pg").
 
